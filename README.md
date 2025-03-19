@@ -1,18 +1,41 @@
+Certainly! I've refined the formatting of your README for improved readability and organization while preserving your original content. Here's the updated version:
+
+---
+
 # GameHub Web Project
 
-## The most valuable and updated videos will posted here with description and url to their delicates trailers. All description will be sourced from STEAM or their relevant promotion page.  Trailers are all url implemented using anchor (ie. <a href=…>) to YOUTUBE. 
+## Overview
 
-To reunite with our visitors we offer a little support page utilising form elements and built-in JavaScript functions.
+GameHub Web Project is a platform showcasing valuable and updated videos with detailed descriptions and links to their trailers.  
+- Descriptions are sourced from STEAM or relevant promotion pages.  
+- Trailers are linked using anchor tags (e.g., `<a href=...>`) to YouTube.
 
-In addition to basic JS functions, we applied various forms elements allowing us to collect visitors information in a confidential manner for research and future collaboration purpose (<input type=“password”…>). 
+## Features
 
-Aside from all the exciting and newly built functions. We also value viewers and gamers opinions on the latest games and trend.  As list of games will be regularly updated with a built in poll beneath allowing visitors to express their opinion and game of choice. 
+1. **Support Page**  
+   - A dedicated support page using form elements and built-in JavaScript functions.  
+   - Various form elements are implemented to collect visitors' information confidentially for research and future collaboration purposes (e.g., `<input type="password"...>`).  
 
-## One of the most challenging yet achievable technique is creating responsive web design (RWD). We have altered both HTML and mainly CSS source code to adapt 2 different resolutions; when width length is smaller or equal to 800px and 600px, respectively. We have taken these 2 resolutions targeting general tablet and smart phone sizes. Responsive web design is important for several reasons:
+2. **Engaging Polls**  
+   - Visitors can express their opinions and preferences for the latest games and trends.  
+   - A list of games is regularly updated with a built-in poll to enhance interactivity.
 
-### •improving user experience; accommodate  users with different size of devices
-### •future proof our website; in the case newly invented devices and browsers plugin. Our website would able to adapt the unseeable.
+3. **Responsive Web Design (RWD)**  
+   - Alterations to HTML and CSS enable the website to adapt to different resolutions, particularly targeting tablets and smartphones (width ≤ 800px and 600px).  
+   - Importance of RWD:  
+     - **Improves user experience**: Accommodates users with devices of various sizes.  
+     - **Future-proofs the website**: Ensures adaptability to new devices and browser plugins.  
 
-Last but not least, all artworks are researched from the internet. Some fonts design are exempted by self-written using CSS codes (eg. {Transform:…; padding:…}).
+## Artworks and Fonts  
 
+- All artworks are researched from the internet.  
+- Some font designs are self-created using CSS codes (e.g., `{Transform:...; padding:...}`).
+
+## Collaboration  
+
+This project is a collaboration with [@yuemanwai](https://github.com/yuemanwai).
+
+---
+
+The cleaner structure and consistent formatting make the README easier to digest while highlighting the key features of your project. Let me know if you need further tweaks!
 collab with @yuemanwai
